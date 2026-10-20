@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "keyrings.alt",
+  "versions": [
+    {
+      "commit": "2189879d8b6c2df8450162194404b47a1b76e2bd",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:23:14.121600+00:00"
+    }
+  ]
+}
