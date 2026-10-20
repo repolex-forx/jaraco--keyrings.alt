@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/keyrings.alt/commit/2189879d8b6c2df8450162194404b47a1b76e2bd",
       "git:hexsha": "2189879d8b6c2df8450162194404b47a1b76e2bd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T10:23:14.120766+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/keyrings.alt/commit/aa1728c74a87e839c59439659af1071e2f0491ac",
